@@ -1,0 +1,1 @@
+Ce dossier exécute seulement les algos BSUP et DPS avec les instances d'Alejandro : il faut utiliser submitdataAl.sh
